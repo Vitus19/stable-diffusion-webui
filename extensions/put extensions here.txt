@@ -1,0 +1,1 @@
+https://github.com/Uminosachi/sd-webui-inpaint-anything
